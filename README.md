@@ -7,13 +7,13 @@
 
 ## Последовательность свойств
 
-0) @mixin, @include - если используем SCSS/SASS/LESS/Stylus/Postcss
-1) Размеры и отступы - width, height, margin, padding
-2) Позиционирование и положение - position, top/right/bottom/left, display, float, z-index
-3) Рамка - border
-4) Оформление - background, border-radius, outline, opacity, list-style-type, overflow
-5) Типографика и оформление текста - font-style, font-variant, font-weight, font-size, line-height, font-family, color
-6) Прочее - transition, animation
+1) @mixin, @include - если используем SCSS/SASS/LESS/Stylus/Postcss
+2) Размеры и отступы - width, height, margin, padding
+3) Позиционирование и положение - position, top/right/bottom/left, display, float, z-index
+4) Рамка - border
+5) Оформление - background, border-radius, outline, opacity, list-style-type, overflow
+6) Типографика и оформление текста - font-style, font-variant, font-weight, font-size, line-height, font-family, color
+7) Прочее - transition, animation
 
 ```css
 .sequence {
