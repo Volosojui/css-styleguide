@@ -17,7 +17,7 @@
 
 ```css
 .sequence {
-  [@include|@mixin];
+  [@mixin|@include];
 
   width: 100px;
   height: 100px;
